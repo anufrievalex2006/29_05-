@@ -13,3 +13,10 @@
 Брат, есть такая штука, как SOLID.
 1) Одна функция - одно действие
 2) Один вход - один вывод
+
+MVC (Model View Controller) - шаблон проектирования
+
+Пакет NuGet:
+ПКМ - Проект (проект управления NuGet)
+ExcelDataReader
+Entity Framework
